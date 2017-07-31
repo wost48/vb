@@ -1,0 +1,18 @@
+Line 262: Class MSComctlLib.ListView of control SalesList was not a loaded control class.
+Line 268: The property name _ExtentX in SalesList is invalid.
+Line 269: The property name _ExtentY in SalesList is invalid.
+Line 270: The property name SortKey in SalesList is invalid.
+Line 271: The property name View in SalesList is invalid.
+Line 272: The property name Sorted in SalesList is invalid.
+Line 273: The property name LabelWrap in SalesList is invalid.
+Line 274: The property name HideSelection in SalesList is invalid.
+Line 275: The property name GridLines in SalesList is invalid.
+Line 276: The property name _Version in SalesList is invalid.
+Line 281: The property name NumItems in SalesList is invalid.
+Line 285: The property name ColumnHeader(1) in SalesList is invalid.
+Line 290: The property name ColumnHeader(2) in SalesList is invalid.
+Line 295: The property name ColumnHeader(3) in SalesList is invalid.
+Line 300: The property name ColumnHeader(4) in SalesList is invalid.
+Line 305: The property name ColumnHeader(5) in SalesList is invalid.
+Line 310: The property name ColumnHeader(6) in SalesList is invalid.
+Line 315: The property name ColumnHeader(7) in SalesList is invalid.
